@@ -3,6 +3,7 @@
 #include "vec3.h"
 #include "raytracer.h"
 #include "sphere.h"
+#include "stb_image_write.h"
 
 #define degtorad(angle) angle * MPI / 180
 
